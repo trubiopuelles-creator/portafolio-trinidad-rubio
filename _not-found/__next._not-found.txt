@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[68422,["/portafolio-trinidad-rubio/_next/static/chunks/ec2128e43384fdfc.js"],"default"]
+3:I[78912,["/portafolio-trinidad-rubio/_next/static/chunks/ec2128e43384fdfc.js"],"default"]
+0:{"buildId":"atVM03khQlcKMkDFUinvJ","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}

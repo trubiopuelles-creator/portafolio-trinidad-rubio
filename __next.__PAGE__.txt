@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[63122,["/portafolio-trinidad-rubio/_next/static/chunks/ec2128e43384fdfc.js"],"ClientPageRoot"]
+3:I[40533,["/portafolio-trinidad-rubio/_next/static/chunks/9a4700e0550a8d6a.js"],"default"]
+6:I[59430,["/portafolio-trinidad-rubio/_next/static/chunks/ec2128e43384fdfc.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"atVM03khQlcKMkDFUinvJ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/portafolio-trinidad-rubio/_next/static/chunks/9a4700e0550a8d6a.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
